@@ -1,2 +1,2 @@
-require "hw"
+require "web"
 run Sinatra::Application
